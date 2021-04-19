@@ -19,32 +19,32 @@
 <p>f. Quais evidências você possui de que seu modelo é suficientemente bom?</p>
 
 <p>Overall Statistics
-   
-   Accuracy : 0.7758         
-   95% CI : (0.763, 0.7883)
-   No Information Rate : 0.7487         
-   P-Value [Acc > NIR] : 0.00002057     
-                                         
-                  Kappa : 0.3711         
-                                         
- Mcnemar's Test P-Value : NA             
-
-Statistics by Class:
-
-   Class: Entire home/apt Class: Hotel room
-Sensitivity                          0.8939         0.0526316
-Specificity                          0.4737         0.9988160
-Pos Pred Value                       0.8350         0.1666667
-Neg Pred Value                       0.5998         0.9957507
-Prevalence                           0.7487         0.0044790
-Detection Rate                       0.6693         0.0002357
-Detection Prevalence                 0.8015         0.0014144
-Balanced Accuracy                    0.6838         0.5257238
-  Class: Private room Class: Shared room
-Sensitivity                       0.4462           0.222222
-Specificity                       0.8886           0.994964</p>
-
+<p>   
+<p>  Accuracy : 0.7758         
+<p>   95% CI : (0.763, 0.7883)
+<p>   No Information Rate : 0.7487         
+<p>   P-Value [Acc > NIR] : 0.00002057     
+<p>                                         
+<p>                 Kappa : 0.3711         
+<p>                                         
+<p>Mcnemar's Test P-Value : NA             
+<p>
+<p>Statistics by Class:
+<p>
+<p>   Class: Entire home/apt Class: Hotel room
+<p>Sensitivity                          0.8939         0.0526316
+<p>Specificity                          0.4737         0.9988160
+<p>Pos Pred Value                       0.8350         0.1666667
+<p>Neg Pred Value                       0.5998         0.9957507
+<p>Prevalence                           0.7487         0.0044790
+<p>Detection Rate                       0.6693         0.0002357
+<p>Detection Prevalence                 0.8015         0.0014144
+<p>Balanced Accuracy                    0.6838         0.5257238
+<p>  Class: Private room Class: Shared room
+<p>Sensitivity                       0.4462           0.222222
+<p>Specificity                       0.8886           0.994964</p>
+<p>
 <p>#Evidencias para um modelo satisfatório 
-Accuracy       : 0.7758  
-Sensitivity    : 0.8939
-Specificity    : 0.4737 </p>
+<p>Accuracy       : 0.7758  
+<p>Sensitivity    : 0.8939
+<p>Specificity    : 0.4737
