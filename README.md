@@ -1,6 +1,6 @@
 <p>a. Como foi a definição da sua estratégia de modelagem?<p>
 
-<p>A a minha definição foi encontrar quais são as variaveis mais principais para o modelo de classificação do room_type.<p>
+<p>A a minha definição foi encontrar quais são as variaveis mais importantes e principais para o modelo de classificação room_type.<p>
 
 <p>b. Como foi definida a função de custo utilizada?<p>
   
@@ -19,11 +19,11 @@
 <p>f. Quais evidências você possui de que seu modelo é suficientemente bom?<p>
 
 <p>Overall Statistics
-                                         
-               Accuracy : 0.7758         
-                 95% CI : (0.763, 0.7883)
-    No Information Rate : 0.7487         
-    P-Value [Acc > NIR] : 0.00002057     
+   
+   Accuracy : 0.7758         
+   95% CI : (0.763, 0.7883)
+   No Information Rate : 0.7487         
+   P-Value [Acc > NIR] : 0.00002057     
                                          
                   Kappa : 0.3711         
                                          
@@ -31,7 +31,7 @@
 
 Statistics by Class:
 
-                     Class: Entire home/apt Class: Hotel room
+   Class: Entire home/apt Class: Hotel room
 Sensitivity                          0.8939         0.0526316
 Specificity                          0.4737         0.9988160
 Pos Pred Value                       0.8350         0.1666667
@@ -40,6 +40,11 @@ Prevalence                           0.7487         0.0044790
 Detection Rate                       0.6693         0.0002357
 Detection Prevalence                 0.8015         0.0014144
 Balanced Accuracy                    0.6838         0.5257238
-                     Class: Private room Class: Shared room
+  Class: Private room Class: Shared room
 Sensitivity                       0.4462           0.222222
 Specificity                       0.8886           0.994964<p>
+
+#Evidencias para um modelo satisfatório 
+Accuracy       : 0.7758  
+Sensitivity    : 0.8939
+Specificity    : 0.4737 
