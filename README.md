@@ -1,6 +1,6 @@
 <p>a. Como foi a definição da sua estratégia de modelagem?<p>
 
-<p>A a minha definição foi encontrar quais são as variaveis mais importantes e principais para o modelo de classificação room_type.<p>
+<p color ="red">A a minha definição foi encontrar quais são as variaveis mais importantes e principais para o modelo de classificação room_type.<p>
 
 <p>b. Como foi definida a função de custo utilizada?<p>
   
