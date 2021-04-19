@@ -1,22 +1,22 @@
-<p>a. Como foi a definição da sua estratégia de modelagem?<p>
+<p>a. Como foi a definição da sua estratégia de modelagem?</p>
 
-<p color ="red">A a minha definição foi encontrar quais são as variaveis mais importantes e principais para o modelo de classificação room_type.<p>
+<p color ="red">A a minha definição foi encontrar quais são as variaveis mais importantes e principais para o modelo de classificação room_type.</p>
 
-<p>b. Como foi definida a função de custo utilizada?<p>
+<p>b. Como foi definida a função de custo utilizada?</p>
   
-<p>c. Qual foi o critério utilizado na seleção do modelo final?<p>
+<p>c. Qual foi o critério utilizado na seleção do modelo final?</p>
 
-<p>A escolha do modelo apropriado, do ponto de vista estatístico.<p>
+<p>A escolha do modelo apropriado, do ponto de vista estatístico.</p>
 
-<p>d. Qual foi o critério utilizado para validação do modelo?<p>
+<p>d. Qual foi o critério utilizado para validação do modelo?</p>
 
-<p>O criterio foi verficar a acuracia baseado na sensibilidade e especificidade usando a validação confusion matrix.<p>
+<p>O criterio foi verficar a acuracia baseado na sensibilidade e especificidade usando a validação confusion matrix.</p>
 
-<p>e. Por que escolheu utilizar este método?<p>
+<p>e. Por que escolheu utilizar este método?</p>
 
-<p>O modelo K-Nearest Neighbors apresentou melhores resultados apartir da sua accuracy e sensibilidade.<p> 
+<p>O modelo K-Nearest Neighbors apresentou melhores resultados apartir da sua accuracy e sensibilidade.</p>
 
-<p>f. Quais evidências você possui de que seu modelo é suficientemente bom?<p>
+<p>f. Quais evidências você possui de que seu modelo é suficientemente bom?</p>
 
 <p>Overall Statistics
    
@@ -42,9 +42,9 @@ Detection Prevalence                 0.8015         0.0014144
 Balanced Accuracy                    0.6838         0.5257238
   Class: Private room Class: Shared room
 Sensitivity                       0.4462           0.222222
-Specificity                       0.8886           0.994964<p>
+Specificity                       0.8886           0.994964</p>
 
-#Evidencias para um modelo satisfatório 
+<p>#Evidencias para um modelo satisfatório 
 Accuracy       : 0.7758  
 Sensitivity    : 0.8939
-Specificity    : 0.4737 
+Specificity    : 0.4737 </p>
